@@ -27,9 +27,9 @@ I enjoy collaborating in teams and have experience organizing both design and de
 
 ## GitHub Stats
 
-<p align="left">
+<p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lanovich&theme=gotham&short_numbers=true&date_format=%5BY%20%5DM%20j" width="50%" height="195px" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanovich&layout=compact&theme=gotham" height="195px" width="43%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanovich&layout=compact&theme=gotham" height="195px" width="35%" />
 </p>
 
 ---
