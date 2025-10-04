@@ -12,7 +12,7 @@ I enjoy collaborating in teams and have experience organizing both design and de
 [![Frontend](https://skillicons.dev/icons?i=nextjs,react,ts,js,redux,tailwind,css,sass,webpack,vite&perline=10)](https://skillicons.dev)  
 
 ### Backend & DevOps
-[![Backend](https://skillicons.dev/icons?i=nodejs,postgres,mongodb,docker&perline=6)](https://skillicons.dev)  
+[![Backend](https://skillicons.dev/icons?i=nodejs,postgres,mongodb,express,docker&perline=6)](https://skillicons.dev)  
 
 ### Additional Skills
 
