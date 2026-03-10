@@ -29,7 +29,7 @@ I enjoy collaborating in teams and have experience organizing both design and de
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lanovich&theme=gotham" width="50%"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lanovich&theme=github_dark&utcOffset=3"/>
 </p>
 
