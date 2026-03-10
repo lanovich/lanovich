@@ -28,10 +28,15 @@ I enjoy collaborating in teams and have experience organizing both design and de
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=lanovich&theme=gotham&short_numbers=true&date_format=%5BY%20%5DM%20j" width="50%" height="195px" alt="GitHub Streak" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanovich&layout=compact&theme=gotham" height="195px" width="36%" />
+  <img src="https://streak-stats.demolab.com?user=lanovich&theme=gotham" width="50%"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lanovich&theme=github_dark&utcOffset=3"/>
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=lanovich&bg_color=0d1117&color=ffffff&line=29A889&point=ffffff&area=true&area_color=29A889&title_color=ffffff&hide_border=true"
+  />
 </p>
 
 ---
@@ -41,6 +46,7 @@ I enjoy collaborating in teams and have experience organizing both design and de
 | Project | Description |
 |--------|----------|
 | 🛍 [Mia’s Corner](https://www.mias-corner.ru/) | **Type:** E-commerce for aromatic products<br>**Technologies:** Next.js, SSR, SWR, Zustand, React Hook Form + Zod, Tailwind, Framer Motion, PostgreSQL<br>**Features:** Admin panel with CRUD, payment system integration, Yandex Delivery, email notifications<br>**Highlights:** Performance optimization, lazy-loading media, custom animations |
+| 🚗 [CarWash](https://avtomoika-gostagaevskaya.ru/) | Type: Car wash service booking webapp<br>Technologies: React 19, TypeScript, Vite, Redux Toolkit (RTK Query), React Hook Form + Zod, Tailwind CSS, Radix UI, Yandex Maps API, Docker + Nginx, Express.js<br>Features: Service catalog, online booking system, admin panel, interactive map with locations, authentication system<br>Highlights: FSD-like architecture, form validation with Zod, modal-based booking flow, responsive design |
 
 ---
 
